@@ -1,27 +1,52 @@
-# NgxAlert
+# ngx-alert-demo
+[![npm version](https://img.shields.io/npm/v/ngx-modal-dialog.svg)](https://www.npmjs.com/package/ngx-alert)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
+## 来了就留个 :feet:吧，star一下证明你来过  :stuck_out_tongue_closed_eyes:
 
-## Development server
+>  如果对您对此项目有兴趣，可以点 "Star" 支持一下 谢谢！ ^_^
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+>  或者您可以 "follow" 一下，我会不断开源更多的有趣的项目
 
-## Code scaffolding
+>  如有问题请直接在 Issues 中提，或者您发现问题并有非常好的解决方案，欢迎 PR 👍
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+>  传送门1：[vue2后台管理系统](https://github.com/Alex-0407/vue2-admin-grace)
 
-## Build
+>  传送门2：[angulat4后台管理系统](https://github.com/Alex-0407/ng4-grace)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+## 技术栈
 
-## Running unit tests
+ng5 + bootstrap4 + ngx-toast + scss
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## 项目运行
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+```
+git clone https://github.com/alex-0407/ngx-alert-demo
 
-## Further help
+cd ngx-alert-demo  
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+npm install
+
+npm run dev (运行开发模式)
+
+npm run build (打包发布)
+
+
+浏览器打开: http://localhost:4200
+
+```
+
+## 在线效果演示
+
+[点我吧 :smiley:](https://alex-0407.github.io/ngx-alert)
+
+
+#### 欢迎关注我的微信公众号或头条号`全栈弄潮儿` ，获取更多学习资源及技术文章等
+
+* 微信公众号二维码，扫一扫或者搜索"全栈弄潮儿"即可关注
+
+<img src="https://github.com/alex-0407/sinacloud-node/blob/master/fullstack-8cm.jpg" width="320px" style="display:inline;">
+
+* 今日头条号二维码，扫一扫即可关注
+
+<img src="https://github.com/alex-0407/node-demo/blob/master/toutiao.jpg" width="320px" style="display:inline;">
